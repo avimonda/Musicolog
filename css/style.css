@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+
+}
+p{
+    font-size: 20px;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+/* header section start */
+nav{
+    background-color: #303030;
+    border: 0;
+}
+
+
+#header_btn{
+    background-color: #e8631c;
+
+}
+
+#hero_btn{
+    background-color: #e8631c;
+}
+.hero_part {
+    background:url(../img/icon.png) no-repeat center ;
+    background-size: cover;
+    color: #fff;
+    padding: 270px 0px 40px 0px;
+}
+.hero_part h1{
+    font-size: 80px;
+}
+
+/* header section end */
+#about{
+    background: url(../img/dot-blk-img.png)no-repeat  ;
+    background-size: cover;
+    background-color: #e8631c;
+}
+
+
+.card{
+    background-color: #303030;
+}
+
+h5{
+    font-size: 25px;
+}
+
+
+#price{
+    background-color: #303030;
+}
+
+#price img{
+    width: 120px;
+    height: 140px;
+
+}
+
+#price .card{
+    background-color: #e8631c;
+}
+
+.price_btn{
+    background-color: #303030;
+    border: none;
+    transition: all linear .3s;
+}
+
+.price_btn:hover{
+    background-color: #e8631c;
+}
+
+
+
+#dancing .dancing_one{
+    background-color: #e8631c;
+}
+
+
+#dancing .dancing_write_part {
+    background-color: #e8631c;
+    padding: 350px 0px 40px;
+}
+#dancing h1{
+    font-size: 70px;
+}
+
+#dancing .dancing_btn {
+    background-color: #303030;
+    margin-top: 100px;
+}
+
+#dancing .dancing_btn span{
+    font-size: 30px;
+}
+
+#statistics{
+    background-color: #303030;
+}
+
+
+#statistics h2{
+    font-size: 45px;
+    font-weight: 700;
+}
+
+#statistics h3{
+    font-weight: 300;
+}
+
+
+.heartbet {
+    background:url(../img/back-img.png) no-repeat center ;
+    background-size: cover;
+    color: #fff;
+    padding: 270px 0px 40px 0px;
+}
+
+
+.heartbet p {
+    font-size: 50px;
+    font-weight: 300;
+    margin-bottom: 80px;
+}
+.heartbet h1 {
+    font-size: 80px;
+    font-weight: 500;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
